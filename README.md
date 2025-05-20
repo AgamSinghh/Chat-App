@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-💡DEPLOYED LINK: https://chat-app-ru6v.onrender.com/login
+💡DEPLOYED LINK: https://docker-chat-app.onrender.com/
 
 📩 Chat App
 A real-time chat application built with the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io for instant messaging. Users can send text messages and images, and see online users.
